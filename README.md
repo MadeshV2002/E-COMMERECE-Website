@@ -30,20 +30,4 @@ Clone the repository:
 git clone https://github.com/your-username/react-ecommerce-app.git
 ```
 
-Install dependencies:
 
-```bash
-npm install
-```
-
-Run the app:
-
-```bash
-npm start
-```
-
----
-
-🔥 Clean, short, and professional — just like your QR Code Generator README.
-
-Do you want me to also add a **“📷 Screenshots”** section (like Login, Home, Orders, Services) at the end, or keep it minimal like this?
