@@ -27,7 +27,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-ecommerce-app.git
+git clone https://github.com/MadeshV2002/E-COMMERECE-Website.git
 ```
 
 
